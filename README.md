@@ -9,7 +9,7 @@ It takes input(equations) in the form of String and give single output value.
          Input is y = "12.2+2-1"                                                                                               
          Output is = 13.2
          
-# Supported operators: +, -, *, /, ^
+# Supported operators: +, -, *, /, ^, (,) 
 
 # Supported functions: 
 Trigonometric functions: sin, cos, tan, csc, sec, cot, asin, acos, atan, acsc, asec, acot sinh, cosh, tanh, csch, sech, coth
