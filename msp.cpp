@@ -7,7 +7,7 @@
 // it support trigonometric functions including inverse, and hyperbolic
 // it also support -ve value, but only at the beginning
 // by- jay nath
-// contact: jay14nath@gmail.com
+// contact: jaynath1214@gmail.com
 *////////////////////////////////////////////////////////////////////////////////
 
 #include "msp.h"
