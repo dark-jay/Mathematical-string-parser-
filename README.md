@@ -18,6 +18,9 @@ Trigonometric functions: sin, cos, tan, csc, sec, cot, asin, acos, atan, acsc, a
 ## How to use in your code:
 ######      Include the header file in main program
             ``` #include <msp.h> ```
+            
+######      In case if you place the msp.h header file in same directory
+            ``` #include "msp.h" ```
 
 ######      Create an object of msp class with the equation string as parameter
             ``` msp equation("sin(x)+5"); ```
