@@ -13,7 +13,7 @@ It takes input(equations) in the form of String and give single output value.
 ## Supported operators: +, -, *, /, ^, (,) 
 
 ## Supported functions: 
-Trigonometric functions: sin, cos, tan, csc, sec, cot, asin, acos, atan, acsc, asec, acot sinh, cosh, tanh, csch, sech, coth
+> Trigonometric functions: sin, cos, tan, csc, sec, cot, asin, acos, atan, acsc, asec, acot sinh, cosh, tanh, csch, sech, coth
 
 ## How to use in your code:
 ######      Include the header file in main program
