@@ -13,6 +13,17 @@ It takes input(equations) in the form of String and give single output value.
 
 # Supported functions: 
 Trigonometric functions: sin, cos, tan, csc, sec, cot, asin, acos, atan, acsc, asec, acot sinh, cosh, tanh, csch, sech, coth
+
+# How to use in your code:
+###      Include the header file in main program
+###      ``` #include <msp.h> ```
+
+###      Create an object of msp class with the equation string as parameter
+###      ``` msp equation("sin(x)+5"); ```
+
+###      Get the value by calling returnYvalue() function, this function returns a double and takes x value as parameter
+###      ``` double result = equation.returnYvalue(1); ```
+       
                      
 # Attention:
 There is no exception is used so it might throw error with infinite value, give exception yourself if anyone want 
