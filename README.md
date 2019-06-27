@@ -14,7 +14,8 @@ It takes input(equations) in the form of String and give single output value.
 
 ## Supported functions: 
 > Trigonometric functions: sin, cos, tan, csc, sec, cot, asin, acos, atan, acsc, asec, acot sinh, cosh, tanh, csch, sech, coth.
-######*All trigonometric functions performes computations in radians.*
+
+*All trigonometric functions performes computations in radians.*
 
 ## How to use in your code:
 ######      Include the header file in main program
