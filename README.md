@@ -5,7 +5,7 @@ This parser is purely written in C++ with having no 3rd party library.
 
 It takes input(equations) in the form of String and give single output value. 
 
-## Example:
+## Example input equations:
 * Input is y = "12.2+2-1"
 * Output is = 13.2
 * Trigonometric function e.g.  sin(sin(2x+1))
